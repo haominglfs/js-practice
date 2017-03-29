@@ -1,2 +1,2 @@
 # js-practice
-javascript practical method
+##javascript practical method
